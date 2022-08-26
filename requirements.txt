@@ -1,6 +1,6 @@
 matplotlib==3.2.2 
 seaborn==0.10.1 
 numpy==1.23
-re==2.2.1 
+regex==2020.6.8 
 pandas==1.2.1  
 brain-isotopic-distribution==1.5.9
