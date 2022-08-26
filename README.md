@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=Formula%20Calculator.ipynb)
+
 # Mass-Spectrometry-Chemical-Formula-Assigner
 Script to perform various mass spectrometry-related routines including prediction of possible formulae from accurate masses and simulated spectrum generation
 
