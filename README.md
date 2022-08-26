@@ -11,3 +11,6 @@ To run a copy of this script locally the data_table.pkl file will need to be dow
 
 # Accepted limitations
 This script has been provided as a useful tool and, whilst the base functionality works as intended, has not been extensively tested. It is also noted that there are some minor discrepancies in exact masses of isotopes between the data table constructed from the mendeleev library (used for formula assignment) and the data used by the brainpy library (for spectrum simulation). 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=Formula%20Calculator.ipynb)
