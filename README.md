@@ -7,5 +7,7 @@ Assignment of formulae to peaks of a given mass-to-charge (m/z) ratio is integra
 # Dependencies
 This script was written using the following packages and respective version numbers: matplotlib 3.2.2, seaborn 0.10.1, numpy 1.22.4, re 2.2.1, pandas 1.2.1, and brain-isotopic-distribution 1.5.9 in a python 3.8.3 environment.
 
+To run a copy of this script locally the data_table.pkl file will need to be downloaded.
+
 # Accepted limitations
 This script has been provided as a useful tool and, whilst the base functionality works as intended, has not been extensively tested. It is also noted that there are some minor discrepancies in exact masses of isotopes between the data table constructed from the mendeleev library (used for formula assignment) and the data used by the brainpy library (for spectrum simulation). 
