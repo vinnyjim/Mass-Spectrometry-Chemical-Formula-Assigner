@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=Formula%20Calculator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fvinnyjim%2FMass-Spectrometry-Chemical-Formula-Assigner%2Fblob%2Fmain%2FFormula%2520Calculator%25201.1.ipynb)
 
 # Mass-Spectrometry-Chemical-Formula-Assigner
 Script to perform various mass spectrometry-related routines including prediction of possible formulae from accurate masses and simulated spectrum generation
@@ -11,4 +11,4 @@ To run a copy of this script locally the data_table.pkl file will need to be dow
 # Accepted limitations
 This script has been provided as a useful tool and, whilst the base functionality works as intended, has not been extensively tested. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=Formula%20Calculator.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinnyjim/Mass-Spectrometry-Chemical-Formula-Assigner/HEAD?labpath=https%3A%2F%2Fgithub.com%2Fvinnyjim%2FMass-Spectrometry-Chemical-Formula-Assigner%2Fblob%2Fmain%2FFormula%2520Calculator%25201.1.ipynb)
